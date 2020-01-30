@@ -1,0 +1,163 @@
+/*Challenge Rock,Paper,Scissors Day 8 1.29.2020
+style.css
+/*
+*{
+    outline:solid black;
+}
+*/
+
+.body-style
+{
+
+    background-color:black;
+    
+}
+
+.btn-rock
+{
+    background-color:green;
+    color:lightgray;
+    font-weight:bolder;
+}
+
+.btn-paper
+{
+    background-color:blue;
+    color:lightgray;
+    font-weight:bolder;
+}
+
+.btn-scissors
+{
+    background-color:red;
+    color:lightgray;
+    font-weight:bolder;
+}
+
+.col-border
+{
+    border:solid black;
+}
+
+.div-title
+{
+    margin:auto;
+}
+
+header
+{
+    background-color:slategray;
+    color:lightgray;
+}
+h1
+{
+    display:flex;
+    justify-content:center;
+}
+
+.h3-player
+{
+    color:lightgray;
+    margin-top:-1vh;
+    
+
+}
+
+hr
+{
+    border:solid black;
+    border-width:1px;
+}
+
+.img-genius
+{
+    height:20vh;
+}
+
+.img-fh
+{
+    height:18vh;
+}
+
+.img-rps
+{
+    height:10vh;
+}
+
+.img-result-you
+{
+    height:15vh;
+}
+
+.img-result-computer
+{
+    height:15vh;
+}
+
+.jmbo
+{
+    margin-top:1vh;
+    margin-bottom:1vh;
+    background-color:slategray;
+    border:solid black;
+    height:40vh;
+    
+}
+
+section.outcomes
+{
+    background-color:slategray;
+}
+
+p.format-rules
+{
+    margin:2% 2% 2% 2%;
+    color:lightgray;
+    font-weight:bolder;
+}
+
+
+
+.p-rps
+{
+    display:flex;
+    justify-content:center;
+
+}
+
+p.play-buttons
+{
+    display:flex;
+    justify-content:center;
+}
+
+.p-tally-text
+{
+    color:lightgray;
+    font-size:1rem;
+    font-weight:bolder;
+}
+
+.row-jumbo
+{
+    background-color:black;
+}
+
+
+
+section.play-buttons
+{
+    background-color:slategray;
+}
+
+.section-rules
+{
+    background-color:slategray;
+}
+
+.span-btn
+{
+    margin-left:3vw;
+    margin-right:3vw;
+}
+
